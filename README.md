@@ -26,11 +26,3 @@ Tenho foco em **C# / .NET**, APIs REST e bancos de dados relacionais, sempre apl
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusLims&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLims&layout=compact&hide_border=true" />
-</div>
-
-## 🔥 Atividade
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusLims&hide_border=true" />
