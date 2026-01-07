@@ -48,7 +48,7 @@ Tecnologias e práticas que estou estudando atualmente e pretendo aplicar em pro
 
 ## 🔥 Atividade & Commits
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusLims&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user="MatheusLims"&theme=default&hide_border=true)
 
 ---
 
